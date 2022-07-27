@@ -94,9 +94,9 @@ Python 3.10.5
 
 # 开始行动
 
-1. 创建项目，新建文件夹，打开 Visual Studio Code，按下`Ctrl+Shift+P`快捷键，选择[Clicknium: Create Project](https://www.clicknium.com/documents/developtools/vscode/project_management))，并且选择刚才新建文件即可；
+1. 创建项目，新建文件夹，打开 Visual Studio Code，按下`Ctrl+Shift+P`快捷键，选择[Clicknium: Sample](https://www.clicknium.com/documents/developtools/vscode/project_management))，并且选择刚才新建文件即可；
 
-2. 打开 app.py 脚本文件,按照上述思路方案；
+2. 打开 sample.py 脚本文件,按照上述思路方案；
    
    #### 发送消息
    
